@@ -4,7 +4,7 @@
 
 ## General info
 
-- [The main URL](https://www.coursera.org/specializations/deep-learning) of the specialization.
+- [Link](https://www.coursera.org/specializations/deep-learning) to this specialization.
 - There are in total 5 courses in the specialization:
     - [x] [Course 1](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) — Neural Networks and Deep Learning -- [my note](/deeplearning-ai-course-1).
     - [x] [Course 2](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning) — Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization -- [my note](/deeplearning-ai-course-2).
@@ -22,7 +22,7 @@
     - What is a neural network? — [video](https://www.coursera.org/lecture/neural-networks-deep-learning/what-is-a-neural-network-eAE2G)
     - Supervised Learning with Neural Networks — [video](https://www.coursera.org/lecture/neural-networks-deep-learning/supervised-learning-with-neural-networks-2c38r)
     - Why is Deep Learning taking off? — [video](https://www.coursera.org/lecture/neural-networks-deep-learning/why-is-deep-learning-taking-off-praGm)
-    - About this Course — [video](https://www.coursera.org/lecture/neural-networks-deep-learning/about-this-course-6A3es) 
+    - About this Course — [video](https://www.coursera.org/lecture/neural-networks-deep-learning/about-this-course-6A3es)
     - Course Resources — [video](https://www.coursera.org/lecture/neural-networks-deep-learning/course-resources-2PhD4)
     - Geoffrey Hinton interview — [video](https://www.coursera.org/lecture/neural-networks-deep-learning/geoffrey-hinton-interview-dcm5r)
 - [x] **Week 2** -- **Neural Networks Basics**
@@ -30,7 +30,7 @@
     - Logistic Regression — [video](https://www.coursera.org/lecture/neural-networks-deep-learning/logistic-regression-LoKih)
     - Logistic Regression Cost Function — [video](https://www.coursera.org/lecture/neural-networks-deep-learning/logistic-regression-cost-function-yWaRd)
     - Gradient Descent — [video](https://www.coursera.org/lecture/neural-networks-deep-learning/gradient-descent-A0tBd)
-    - Derivatives — [video](https://www.coursera.org/lecture/neural-networks-deep-learning/derivatives-0ULGt) 
+    - Derivatives — [video](https://www.coursera.org/lecture/neural-networks-deep-learning/derivatives-0ULGt)
     - More Derivative Examples — [video](https://www.coursera.org/lecture/neural-networks-deep-learning/more-derivative-examples-oEcPT)
     - Computation graph — [video](https://www.coursera.org/lecture/neural-networks-deep-learning/computation-graph-4WdOY)
     - Derivatives with a Computation Graph — [video](https://www.coursera.org/lecture/neural-networks-deep-learning/derivatives-with-a-computation-graph-0VSHe)
@@ -84,7 +84,7 @@
     - Weight Initialization for Deep Networks — [video](https://www.coursera.org/lecture/deep-neural-network/weight-initialization-for-deep-networks-RwqYe)
     - Numerical approximation of gradients — [video](https://www.coursera.org/lecture/deep-neural-network/numerical-approximation-of-gradients-XzSSa)
     - Gradient checking — [video](https://www.coursera.org/lecture/deep-neural-network/gradient-checking-htA0l)
-    - Gradient Checking Implementation Notes — [video](https://www.coursera.org/lecture/deep-neural-network/gradient-checking-implementation-notes-6igIc) 
+    - Gradient Checking Implementation Notes — [video](https://www.coursera.org/lecture/deep-neural-network/gradient-checking-implementation-notes-6igIc)
     - Yoshua Bengio interview — [video](https://www.coursera.org/lecture/deep-neural-network/yoshua-bengio-interview-bqUgf)
 - [x] **Week 2** -- **Optimization algorithms**
     - Mini-batch gradient descent — [video](https://www.coursera.org/lecture/deep-neural-network/mini-batch-gradient-descent-qcogH)
