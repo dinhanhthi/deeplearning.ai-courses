@@ -1,7 +1,5 @@
 # 🧠 Deep Learning Specialization by deeplearning.ai
 
-👉 [My notes for these courses](https://dinhanhthi.com/tags#deeplearning-ai).
-
 - [Link](https://www.coursera.org/specializations/deep-learning) to this specialization.
 - There are in total **5 courses** in the specialization:
     - [x] [Course 1](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) — Neural Networks and Deep Learning -- [my note](https://dinhanhthi.com/deeplearning-ai-course-1).
