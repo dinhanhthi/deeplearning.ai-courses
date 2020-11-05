@@ -7,3 +7,4 @@
     - [x] [Course 3](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning) — Structuring Machine Learning Projects -- [my note](https://dinhanhthi.com/deeplearning-ai-course-3).
     - [x] [Course 4](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning) — Convolutional Neural Networks -- [my note](https://www.notion.so/dinhanhthi/CNN-by-deeplearning-ai-a081d253fc2c4c0b99edd2757c759b9e).
     - [x] [Course 5](https://www.coursera.org/learn/nlp-sequence-models) — Sequence Models -- [my note](https://www.notion.so/dinhanhthi/Sequence-models-by-deeplearning-ai-427774f7b31846fdb17ac09cd2353fbe).
+- For reading html files (generated from jupyter notebooks) in this repository, use [this tool](http://dinhanhthi.com/github-html).
